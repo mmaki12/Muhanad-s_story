@@ -1,0 +1,66 @@
+body{
+    color-scheme: grey;
+}
+form{
+    border-collapse:collapse;
+}
+body {
+    background-color: grey;
+    text-align:center;
+    align:center;
+    
+}
+
+header{
+    color:grey;
+    background-color: white;
+    padding-top: 1px;
+
+}
+
+
+p{
+    box-sizing: border-box;
+    color: white;
+    text-orientation: upright;
+    padding: 20px;
+    background-color: grey;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    margin-top: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: grey;
+    margin: 0 15px;
+  }
+  
+  nav a:hover {
+    text-decoration:double;
+    color:orangered;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  p br {
+    display: block;
+    margin: 20px 0;
+  }
+  #friends{
+    font-size: 20px;
+  }
